@@ -1,0 +1,2 @@
+# Petla-for
+for
